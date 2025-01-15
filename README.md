@@ -1,0 +1,3 @@
+# Unexpected Error Handling with Err.Raise in VBScript
+This example demonstrates a common issue in VBScript error handling. The `Err.Raise` statement, while useful, can produce unexpected results if not handled correctly, particularly when dealing with empty parameters or missing values.  The provided code illustrates a scenario where a poorly implemented error check can lead to runtime failures.
+The solution demonstrates how to improve error handling with more robust checks and informative error messages.
